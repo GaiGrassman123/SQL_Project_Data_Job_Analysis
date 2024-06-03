@@ -23,11 +23,11 @@ For my deep dive into the data analyst & data scientist job market, I harnessed 
 - **Git & Github:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
-Each SQL query for this project aimed at investigating specific aspects of the data analyst & data scientist job makret.
+Each SQL query for this project aimed at investigating specific aspects of the data analyst & data scientist job market.
 Here's how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and locatiom focusing on jobs that are remote. This SQL query highlights the high paying opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location focusing on jobs that are remote. This SQL query highlights the high paying opportunities in the field.
 
 
 ```sql
