@@ -146,7 +146,7 @@ LIMIT 25
 ```
 Here's a breakdown of the results for the top paying skills for Data Scientists:
 
-- **High Demand for Redhat and Elixir**: Top salaries are commanded by scientists skilled in Redhat Linux and Elixir which is a functional programming langugae used for building scalable and maintainable applications.
+- **High Demand for Redhat and Elixir**: Top salaries are commanded by scientists skilled in Redhat Linux and Elixir which is a functional programming language used for building scalable and maintainable applications.
 - **Software Development & Deployment Proficiency:** Knowledge in development and deployment tools such as Airtable indicates a lucrative crossover between data analysis and engineering, with a premium of skills that faciliate automation and efficent data pipeline management.
 - **Cloud Computing Expertise:** Familiarity with project management tools such as Asana that helps teams collaborate on tasks and projects, suggests that cloud proficency significantly boosts earning potential in data science.
 
