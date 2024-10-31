@@ -111,7 +111,7 @@ LIMIT 5
 ```
 Here's the breakdown of the most demanded skills for Data Scientists in 2023
 
-- **Python** and **SQL** remain of most importance, emphasizing the need for strong foundationa skills in data processing and the ability apply ML skills.
+- **Python** and **SQL** remain of most importance, emphasizing the need for strong foundational skills in data processing and the ability apply ML skills.
 - **R** and visualization tools such as **Tableau** are also important, pointing towards the increasing importance of data storytelling in a business environment.
 
 
