@@ -125,7 +125,7 @@ Here's the breakdown of the most demanded skills for Data Scientists in 2023
 | 3 | sas     | 29642         |
 | 4 | tableau | 29513         |
 
-*Table of the deamand for the top 5 skills in data science job postings
+*Table of the demand for the top 5 skills in data science job postings
 
 ### 4. Skills Based on Salary
 
